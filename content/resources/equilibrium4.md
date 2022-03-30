@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Two people standing and balancing on a wooden platform with hexagonal
     holes.
+parent_uid: 820e9dfb-2133-7d39-23c8-7a0d96718c93
 resourcetype: Image
 title: equilibrium4.jpg
 uid: b11c2158-5e13-ee1f-49a0-33ead0a47dc5

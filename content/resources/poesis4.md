@@ -7,6 +7,7 @@ image_metadata:
   caption: Fabricating the board using a CNC router.
   credit: ''
   image-alt: Spaces and slots being cut on a machine bed.
+parent_uid: ef17070b-7f3f-63da-9a73-90eac330fbef
 resourcetype: Image
 title: poesis4.jpg
 uid: c9406ab1-bbf5-f1aa-c7f8-d025746cfc65

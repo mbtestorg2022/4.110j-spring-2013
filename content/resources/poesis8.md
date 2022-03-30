@@ -7,6 +7,7 @@ image_metadata:
   caption: Game ending when a poem is completed.
   credit: ''
   image-alt: Wooden word tiles spread out on the table with a completed poem.
+parent_uid: ef17070b-7f3f-63da-9a73-90eac330fbef
 resourcetype: Image
 title: poesis8.jpg
 uid: 198a211d-4278-462d-4a8e-e4f94c7beead

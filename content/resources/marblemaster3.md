@@ -7,6 +7,7 @@ image_metadata:
   caption: Players continuing game play by removing the wooden sticks.
   credit: ''
   image-alt: Hands on both sides of the a plexiglass rack to remove sticks.
+parent_uid: a7e4a823-65e4-1c6f-4fcf-682395bb0a7b
 resourcetype: Image
 title: marblemaster3.jpg
 uid: d5cefba5-b6fc-ef47-03d2-d6c389b83ca8

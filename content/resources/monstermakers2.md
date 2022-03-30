@@ -17,6 +17,7 @@ image_metadata:
     in the water.'
   credit: ''
   image-alt: Screen with head choices and no selection made.
+parent_uid: 4c1c2007-f23a-5db4-489e-9dc6b4d41e07
 resourcetype: Image
 title: monstermakers2.JPG
 uid: a224bac5-bd2f-e05d-a032-e87150f31c88

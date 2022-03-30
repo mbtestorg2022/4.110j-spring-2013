@@ -7,6 +7,7 @@ image_metadata:
   caption: Pouring in material to cast a pig.
   credit: ''
   image-alt: Student pouring liquid into cube mold.
+parent_uid: 66c6b6f4-8637-3112-5a60-f01ad3b7f361
 resourcetype: Image
 title: pigs6.jpg
 uid: b0f32683-87b0-b9c4-fd10-e2759dcf3dd6

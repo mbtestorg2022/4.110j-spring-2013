@@ -8,6 +8,7 @@ image_metadata:
     start.
   credit: ''
   image-alt: Two people staring at a rack with wooden sticks and marbles on top.
+parent_uid: a7e4a823-65e4-1c6f-4fcf-682395bb0a7b
 resourcetype: Image
 title: marblemaster1.jpg
 uid: 6fb172a2-f64a-2903-0970-c0f4cdc1148a

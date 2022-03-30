@@ -8,6 +8,7 @@ image_metadata:
     s instructions."
   credit: ''
   image-alt: Printed text on an instructional card included with the game.
+parent_uid: ef17070b-7f3f-63da-9a73-90eac330fbef
 resourcetype: Image
 title: poesis2.jpg
 uid: 89e8a572-a70c-f7f3-49ec-cd4c5e3ab391

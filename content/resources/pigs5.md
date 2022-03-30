@@ -7,6 +7,7 @@ image_metadata:
   caption: Manufacturing pigs by creating molds and casting.
   credit: ''
   image-alt: Two halves of blue foam molds.
+parent_uid: 66c6b6f4-8637-3112-5a60-f01ad3b7f361
 resourcetype: Image
 title: pigs5.jpg
 uid: b519b6f6-0e56-e792-df66-129c29d7048d

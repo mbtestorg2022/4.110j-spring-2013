@@ -16,6 +16,7 @@ image_metadata:
     *   Beware the taller grasses, for within them lies the prairie cat. 16 years.'
   credit: ''
   image-alt: Results screen with all four monsters.
+parent_uid: 4c1c2007-f23a-5db4-489e-9dc6b4d41e07
 resourcetype: Image
 title: monstermakers4.JPG
 uid: ed2ccb2f-2e64-907c-c235-48676eef51b6

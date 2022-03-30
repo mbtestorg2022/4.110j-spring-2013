@@ -7,6 +7,7 @@ image_metadata:
   caption: Board game including instructions, word tiles, and rack for tiles.
   credit: ''
   image-alt: Bag of word tiles and rack for tiles being taken out of the box.
+parent_uid: ef17070b-7f3f-63da-9a73-90eac330fbef
 resourcetype: Image
 title: poesis6.jpg
 uid: 33af5a68-b112-52cc-a885-d0536a215a9d

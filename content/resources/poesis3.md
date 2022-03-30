@@ -7,6 +7,7 @@ image_metadata:
   caption: Earlier iterations of game with paper board and word tiles.
   credit: ''
   image-alt: A player trying to organize a series of words on a piece of paper.
+parent_uid: ef17070b-7f3f-63da-9a73-90eac330fbef
 resourcetype: Image
 title: poesis3.jpg
 uid: 5066841d-3230-4a0a-fe55-314d0aff2755

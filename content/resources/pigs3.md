@@ -7,6 +7,7 @@ image_metadata:
   caption: Player preparing to catapult a pig.
   credit: ''
   image-alt: Student about to release catapult with a cast pig.
+parent_uid: 66c6b6f4-8637-3112-5a60-f01ad3b7f361
 resourcetype: Image
 title: pigs3.JPG
 uid: 73628bae-05df-d228-87cd-c6e438272a5b

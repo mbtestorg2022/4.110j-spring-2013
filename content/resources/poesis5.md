@@ -7,6 +7,7 @@ image_metadata:
   caption: Fabricating the word tiles using a laser cutter.
   credit: ''
   image-alt: Words being etched on a wooden sheet.
+parent_uid: ef17070b-7f3f-63da-9a73-90eac330fbef
 resourcetype: Image
 title: poesis5.jpg
 uid: 3644801e-8d2b-cea0-0dc9-ac25593abdfd
